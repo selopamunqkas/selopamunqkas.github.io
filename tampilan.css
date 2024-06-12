@@ -1,0 +1,11 @@
+.kesamping {
+    display: flex;
+}
+
+.jarak_kiri_deskripsi {
+    margin-left: 10px;
+}
+
+.jarak_bawah_beritap {
+    margin-bottom: 10px;
+}
